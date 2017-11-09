@@ -1,1 +1,0 @@
-Tapa [Latitude: 59.2606, Logitude: 25.9586, I day max temp: 3.48, min temp: -1.88, II day max temp: 1.13, min temp: -3.58, III day max temp: 0.86, min temp: -3.82, Forecast starting from: 2017-12-20]

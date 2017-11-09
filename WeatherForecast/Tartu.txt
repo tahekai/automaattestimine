@@ -1,1 +1,0 @@
-Tartu [Latitude: 58.3806, Logitude: 26.7251, I day max temp: 1.15, min temp: -6.03, II day max temp: 0.5, min temp: -10.03, III day max temp: 0.11, min temp: -5.89, Forecast starting from: 2017-12-20]
